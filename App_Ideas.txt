@@ -1,0 +1,10 @@
+-app that translates a picture of English into wingdings and/or vice versa
+-app that finds the cheapest pop in Charlottetown
+-soundboard for an obnoxious-sounding person/character
+-app that hangs up the phone when you slam it on the table to simulate angry conversations from back when everyone used landlines
+-app that tracks your progress in TV shows / movies
+-app that parses your incoming text messages and relays it as Morse code (through the flashing light on the top left of the phone, or maybe through the flashlight)
+-app that responds to texts asking "where are you", "where u at", and similar variants with images of exotic locations
+
+-app that identifies nearest x (gas station, grocery store) (presumably through google maps)
+-calendar scheduling app
